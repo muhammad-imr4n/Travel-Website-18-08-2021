@@ -113,10 +113,10 @@ h1{
 	font-weight: 600;
 	margin-top: 20px;
 }
-.feature-details .fas{
+/*.feature-details .fas{
 	margin-right: 7px;
 
-}
+}*/
 .feature-box{
 	box-shadow: 0 0 10px 1px rgba(37, 73,214,0.18);
 	margin-bottom: 30px;
@@ -230,10 +230,10 @@ h1{
 	text-align: justify;
 	padding-right: 35px;
 }
-.footer .row .fab,.fas{
+/*.footer .row .fab,.fas{
 	padding-right: 20px;
 	font-size: 15px;
-}
+}*/
 .footer hr{
 	margin-top: 10px;
 	background: #efefef;
